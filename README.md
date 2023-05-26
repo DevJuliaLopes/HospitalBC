@@ -10,5 +10,10 @@ As consultas também têm sido registradas em planilhas, com data e hora de real
 
 Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramento da consulta, ele possa registrar os medicamentos receitados, a quantidade e as instruções de uso. A partir disso, espera-se que o sistema imprima um relatório da receita ao paciente ou permita sua visualização via internet.
 
+<h2> ATUALIZAÇÃO DO BANCO </h2>
 
-![HOSPITAL](https://github.com/DevJuliaLopes/HospitalBC/assets/93220810/47b00a0c-e98e-4167-b7ea-6ba6642c8331)
+No hospital, as internações têm sido registradas por meio de formulários eletrônicos que gravam os dados em arquivos.
+
+
+
+![atualizacaoBD](https://github.com/DevJuliaLopes/HospitalBC/assets/93220810/09fe8087-c4f4-4288-ac96-67f82225dc81)
